@@ -1,0 +1,2785 @@
+]
+{
+
+    "ID": 1,
+
+    "Category_ID": 7,
+
+    "Name": "Butter",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Butter",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "May be left at room temperature for 1 - 2 days.",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 6,
+
+    "DOP_Freeze_Max": 9,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 2,
+
+    "Category_ID": 7,
+
+    "Name": "Buttermilk",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Buttermilk",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 3,
+
+    "DOP_Freeze_Max": 3,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 3,
+
+    "Category_ID": 7,
+
+    "Name": "Cheese",
+
+    "Name_subtitle": "hard such as cheddar, swiss, block parmesan",
+
+    "Keywords": "Cheese,cheddar, swiss,parmesan",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 6,
+
+    "DOP_Refrigerate_Max": 6,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 3,
+
+    "Refrigerate_After_Opening_Max": 4,
+
+    "Refrigerate_After_Opening_Metric": "Weeks",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 6,
+
+    "DOP_Freeze_Max": 6,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 4,
+
+    "Category_ID": 7,
+
+    "Name": "Cheese",
+
+    "Name_subtitle": "parmesan; shredded or grated",
+
+    "Keywords": "Cheese,parmesan,shredded,grated",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 12,
+
+    "DOP_Refrigerate_Max": 12,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 5,
+
+    "Category_ID": 7,
+
+    "Name": "Cheese",
+
+    "Name_subtitle": "shredded; cheddar, mozzarella, etc.",
+
+    "Keywords": "Cheese,shredded,cheddar,mozzarella",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 1,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 3,
+
+    "DOP_Freeze_Max": 4,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 6,
+
+    "Category_ID": 7,
+
+    "Name": "Cheese",
+
+    "Name_subtitle": "processed slices",
+
+    "Keywords": "Cheese,processed slices,slices,slice",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 4,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 7,
+
+    "Category_ID": 7,
+
+    "Name": "Cheese",
+
+    "Name_subtitle": "soft such as brie, bel paese, goat",
+
+    "Keywords": "Cheese,brie, bel paese, goat",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 6,
+
+    "DOP_Freeze_Max": 6,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 8,
+
+    "Category_ID": 7,
+
+    "Name": "Coffee creamer",
+
+    "Name_subtitle": "liquid refrigerated",
+
+    "Keywords": "Coffee creamer,Coffee, creamer,liquid refrigerated",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 3,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 9,
+
+    "Category_ID": 7,
+
+    "Name": "Cottage cheese",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Cottage cheese,cheese",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 2,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 1,
+
+    "Refrigerate_After_Opening_Max": 1,
+
+    "Refrigerate_After_Opening_Metric": "Weeks",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 10,
+
+    "Category_ID": 7,
+
+    "Name": "Cream cheese",
+
+    "Name_subtitle": "",
+
+    "Keywords": "",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 2,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 11,
+
+    "Category_ID": 7,
+
+    "Name": "Cream",
+
+    "Name_subtitle": "whipping, ultrapasteurized",
+
+    "Keywords": "Cream,whipping,ultrapasteurized",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 1,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 1,
+
+    "Refrigerate_After_Opening_Max": 1,
+
+    "Refrigerate_After_Opening_Metric": "Weeks",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 12,
+
+    "Category_ID": 7,
+
+    "Name": "Cream",
+
+    "Name_subtitle": "whipped, sweetened",
+
+    "Keywords": "Cream,whipped, sweetened",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": 1,
+
+    "Refrigerate_Max": 1,
+
+    "Refrigerate_Metric": "Days",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": 1,
+
+    "Freeze_Max": 2,
+
+    "Freeze_Metric": "Months",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 13,
+
+    "Category_ID": 7,
+
+    "Name": "Cream",
+
+    "Name_subtitle": "half and half",
+
+    "Keywords": "Cream,half",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 4,
+
+    "DOP_Refrigerate_Metric": "Days",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 4,
+
+    "DOP_Freeze_Max": 4,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 14,
+
+    "Category_ID": 7,
+
+    "Name": "Cream",
+
+    "Name_subtitle": "heavy",
+
+    "Keywords": "Cream,heavy",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 10,
+
+    "DOP_Refrigerate_Max": 10,
+
+    "DOP_Refrigerate_Metric": "Days",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 3,
+
+    "DOP_Freeze_Max": 4,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 15,
+
+    "Category_ID": 7,
+
+    "Name": "Cream",
+
+    "Name_subtitle": "light",
+
+    "Keywords": "Cream,light",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 1,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "Use for cooking.",
+
+    "DOP_Freeze_Min": 3,
+
+    "DOP_Freeze_Max": 4,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 16,
+
+    "Category_ID": 7,
+
+    "Name": "Dips",
+
+    "Name_subtitle": "sour cream based",
+
+    "Keywords": "Dips,sour cream based,sour,cream based,cream,dip",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 2,
+
+    "DOP_Refrigerate_Max": 2,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 17,
+
+    "Category_ID": 7,
+
+    "Name": "Egg substitutes",
+
+    "Name_subtitle": "liquid",
+
+    "Keywords": "Egg substitutes,liquid,egg,substitutes,substitute",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 7,
+
+    "DOP_Refrigerate_Max": 7,
+
+    "DOP_Refrigerate_Metric": "Days",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 3,
+
+    "Refrigerate_After_Opening_Max": 3,
+
+    "Refrigerate_After_Opening_Metric": "Days",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 20,
+
+    "Category_ID": 7,
+
+    "Name": "Eggnog",
+
+    "Name_subtitle": "commercial",
+
+    "Keywords": "Eggnog,commercial,egg,nog",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 5,
+
+    "DOP_Refrigerate_Metric": "Days",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 6,
+
+    "DOP_Freeze_Max": 6,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 21,
+
+    "Category_ID": 7,
+
+    "Name": "Eggs",
+
+    "Name_subtitle": "in shell",
+
+    "Keywords": "Eggs,in shell,egg,shell",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 5,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 22,
+
+    "Category_ID": 7,
+
+    "Name": "Eggs",
+
+    "Name_subtitle": "raw whites, yolks",
+
+    "Keywords": "Eggs,raw whites, yolks,egg,whites",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": 2,
+
+    "Refrigerate_Max": 4,
+
+    "Refrigerate_Metric": "Days",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": 12,
+
+    "Freeze_Max": 12,
+
+    "Freeze_Metric": "Months",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 23,
+
+    "Category_ID": 7,
+
+    "Name": "Eggs",
+
+    "Name_subtitle": "hard boiled cooked",
+
+    "Keywords": "Eggs,egg,hard boiled cooked,boiled,hard boiled",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": 1,
+
+    "Refrigerate_Max": 1,
+
+    "Refrigerate_Metric": "Weeks",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 24,
+
+    "Category_ID": 7,
+
+    "Name": "Egg dishes",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Egg dishes,egg,dishes",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": 3,
+
+    "Refrigerate_Max": 4,
+
+    "Refrigerate_Metric": "Days",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": 2,
+
+    "Freeze_Max": 3,
+
+    "Freeze_Metric": "Months",
+
+    "Freeze_Tips": "Freezing guidance applies to egg dishes after baking.",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 25,
+
+    "Category_ID": 7,
+
+    "Name": "Kefir",
+
+    "Name_subtitle": "fermented milk",
+
+    "Keywords": "Kefir,fermented milk,milk,fermented",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 1,
+
+    "DOP_Refrigerate_Max": 1,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 1,
+
+    "Refrigerate_After_Opening_Max": 2,
+
+    "Refrigerate_After_Opening_Metric": "Days",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 26,
+
+    "Category_ID": 7,
+
+    "Name": "Margarine",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Margarine",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 6,
+
+    "DOP_Refrigerate_Max": 6,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 12,
+
+    "DOP_Freeze_Max": 12,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 27,
+
+    "Category_ID": 7,
+
+    "Name": "Milk",
+
+    "Name_subtitle": "plain or flavored",
+
+    "Keywords": "Milk,plain,flavored,flavor",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "Package use-by date",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": 3,
+
+    "DOP_Freeze_Max": 3,
+
+    "DOP_Freeze_Metric": "Months",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 28,
+
+    "Category_ID": 7,
+
+    "Name": "Pudding",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Pudding",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "Package use-by date",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": 2,
+
+    "Refrigerate_After_Opening_Max": 2,
+
+    "Refrigerate_After_Opening_Metric": "Days",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 29,
+
+    "Category_ID": 7,
+
+    "Name": "Sour cream",
+
+    "Name_subtitle": "",
+
+    "Keywords": "Sour cream,cream,sour",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "Package use-by date",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": "",
+
+    "DOP_Refrigerate_Max": "",
+
+    "DOP_Refrigerate_Metric": "",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 30,
+
+    "Category_ID": 7,
+
+    "Name": "Whipped cream",
+
+    "Name_subtitle": "aerosol can",
+
+    "Keywords": "Whipped cream,cream,aerosol can,can",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 4,
+
+    "DOP_Refrigerate_Metric": "Weeks",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  },
+
+  {
+
+    "ID": 31,
+
+    "Category_ID": 7,
+
+    "Name": "Whipped topping",
+
+    "Name_subtitle": "aerosol can",
+
+    "Keywords": "Whipped topping,topping,aerosol can,can,whipped",
+
+    "Pantry_Min": "",
+
+    "Pantry_Max": "",
+
+    "Pantry_Metric": "",
+
+    "Pantry_tips": "",
+
+    "DOP_Pantry_Min": "",
+
+    "DOP_Pantry_Max": "",
+
+    "DOP_Pantry_Metric": "",
+
+    "DOP_Pantry_tips": "",
+
+    "Pantry_After_Opening_Min": "",
+
+    "Pantry_After_Opening_Max": "",
+
+    "Pantry_After_Opening_Metric": "",
+
+    "Refrigerate_Min": "",
+
+    "Refrigerate_Max": "",
+
+    "Refrigerate_Metric": "",
+
+    "Refrigerate_tips": "",
+
+    "DOP_Refrigerate_Min": 3,
+
+    "DOP_Refrigerate_Max": 3,
+
+    "DOP_Refrigerate_Metric": "Months",
+
+    "DOP_Refrigerate_tips": "",
+
+    "Refrigerate_After_Opening_Min": "",
+
+    "Refrigerate_After_Opening_Max": "",
+
+    "Refrigerate_After_Opening_Metric": "",
+
+    "Refrigerate_After_Thawing_Min": "",
+
+    "Refrigerate_After_Thawing_Max": "",
+
+    "Refrigerate_After_Thawing_Metric": "",
+
+    "Freeze_Min": "",
+
+    "Freeze_Max": "",
+
+    "Freeze_Metric": "Not Recommended",
+
+    "Freeze_Tips": "",
+
+    "DOP_Freeze_Min": "",
+
+    "DOP_Freeze_Max": "",
+
+    "DOP_Freeze_Metric": "",
+
+    "DOP_Freeze_Tips": "",
+
+    "": "",
+
+    "__1": "",
+
+    "__2": "",
+
+    "__3": "",
+
+    "__4": "",
+
+    "__5": "",
+
+    "__6": "",
+
+    "__7": ""
+
+  }
+]
