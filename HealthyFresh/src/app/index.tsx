@@ -7,6 +7,7 @@ import {
   TextInput,
   ActivityIndicator,
   TouchableOpacity,
+  ScrollView, // This caused an error due to ScrollView NOT being defined. Fixed a bug!
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import foodData from '../foodData.json';
@@ -109,6 +110,7 @@ const FoodCard = ({ item }: { item: FoodItem }) => {
 export default function Index() {
   const [isLoading, setIsLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState('ALL');
 
   // Simulate a quick 1-second startup load
   useEffect(() => {
@@ -118,7 +120,7 @@ export default function Index() {
     return () => clearTimeout(timer);
   }, []);
 
-  // Filter valid items and match against Name, Subtitle, or Keywords
+  // Filter valid items and match against Name, Subtitle, or Keywords + Food Type
   const filteredItems = (foodData as FoodItem[]).filter((row) => {
     if (!row.Name) return false;
     if (!searchQuery.trim()) return true;
@@ -127,8 +129,19 @@ export default function Index() {
     const nameMatch = row.Name.toLowerCase().includes(query);
     const subtitleMatch = row.Name_subtitle?.toLowerCase().includes(query) ?? false;
     const keywordMatch = row.Keywords?.toLowerCase().includes(query) ?? false;
+    const matchesSearch = !query || nameMatch || subtitleMatch || keywordMatch;
+// It was a typo. changed: line 135 was copied to save time and pasted down to line 138. Error came back in app as a wall of mess. had to remove 'matchesCategory =' from line 136 to 138.
+    let matchesCategory = true;
+    if (selectedCategory === 'Dairy') {
+      matchesCategory = row.Name.toLowerCase().includes('cheese') ||
+       row.Name.toLowerCase().includes('butter') ||
+       row.Name.toLowerCase().includes('milk') ||
+       row.Name.toLowerCase().includes('cream');
+    } else if (selectedCategory === 'Eggs') {
+      matchesCategory = row.Name.toLowerCase().includes('egg');
+    }
 
-    return nameMatch || subtitleMatch || keywordMatch;
+    return matchesSearch && matchesCategory;
   });
 
   // Loading Screen View
@@ -144,7 +157,7 @@ export default function Index() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.headerTitle}>HealthyFresh Storage Guide</Text>
+      <Text style={styles.headerTitle}>HealthyFresh</Text>
 
       {/* Search Bar */}
       <View style={styles.searchContainer}>
@@ -160,6 +173,31 @@ export default function Index() {
             <Text style={styles.clearButtonText}>✕</Text>
           </TouchableOpacity>
         )}
+      </View>
+
+      {/* Category Filter Pills */}
+      <View style={styles.filterSection}>
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.categoryScroll}>
+          {['All', 'Dairy', 'Eggs'].map((category) => (
+            <TouchableOpacity
+              key={category}
+              style={[
+                styles.categoryChip,
+                selectedCategory === category && styles.activeCategoryChip,
+              ]}
+              onPress={() => setSelectedCategory(category)}
+            >
+              <Text
+                style={[
+                  styles.categoryText,
+                  selectedCategory === category && styles.activeCategoryText,
+                ]}
+              >
+                {category}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
       </View>
 
       {/* Cards List */}
@@ -201,8 +239,9 @@ const styles = StyleSheet.create({
   headerTitle: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#1a202c',
+    color: '#016e10',
     paddingHorizontal: 16,
+    textAlign: 'center',
     paddingTop: 12,
     paddingBottom: 8,
   },
@@ -284,5 +323,32 @@ const styles = StyleSheet.create({
     color: '#718096',
     fontSize: 16,
     marginTop: 32,
+  },
+  filterSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    marginBottom: 8,
+  },
+  categoryScroll: {
+    flexGrow: 0,
+  },
+  categoryChip: {
+    paddingHorizontal: 14,
+    paddingVertical: 6,
+    backgroundColor: '#e2e8f0',
+    borderRadius: 16,
+    marginRight: 8,
+  },
+  activeCategoryChip: {
+    backgroundColor: '#2f855a',
+  },
+  categoryText: {
+    fontSize: 13,
+    color: '#4a5568',
+    fontWeight: '600',
+  },
+  activeCategoryText: {
+    color: '#ffffff',
   },
 });
